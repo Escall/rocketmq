@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jms-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jms-paya" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jms-payb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jms-pkg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jms-store" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-comform" charset="UTF-8" />
+  </component>
+</project>

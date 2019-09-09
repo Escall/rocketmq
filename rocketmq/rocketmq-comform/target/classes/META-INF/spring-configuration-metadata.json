@@ -1,0 +1,40 @@
+{
+  "groups": [
+    {
+      "name": "spring.rocketmq",
+      "type": "com.example.conform.config.MQProperties",
+      "sourceType": "com.example.conform.config.MQProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.rocketmq.name-server-address",
+      "type": "java.lang.String",
+      "sourceType": "com.example.conform.config.MQProperties"
+    },
+    {
+      "name": "spring.rocketmq.producer-group",
+      "type": "java.lang.String",
+      "sourceType": "com.example.conform.config.MQProperties"
+    },
+    {
+      "name": "spring.rocketmq.send-msg-timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.conform.config.MQProperties",
+      "defaultValue": 3000
+    },
+    {
+      "name": "spring.rocketmq.trace-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.example.conform.config.MQProperties",
+      "defaultValue": true
+    },
+    {
+      "name": "spring.rocketmq.vip-channel-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.example.conform.config.MQProperties",
+      "defaultValue": true
+    }
+  ],
+  "hints": []
+}
